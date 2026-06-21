@@ -11,3 +11,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
 URL: https://github.com/wangweiqi-bio/LiDAR
 BugReports: https://github.com/wangweiqi-bio/LiDAR/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
